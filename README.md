@@ -7,6 +7,9 @@
   - one repository per library
 - seed repositories/folders that we want to see built. initial thoughts:
   - data structures
+  - regular expressions
+  - paths
+  - CLI arg parsing
   - observables?
   - http?
   - logging strategies for SwiftLog?
