@@ -10,4 +10,4 @@
   - observables?
   - http?
   - logging strategies for SwiftLog?
-
+- use the forums as a source of ideas for things that have been rejected or deferred from the standard library
