@@ -13,6 +13,7 @@
 - Two approaches
   - single repository with subfolders for different "libraries"
   - one repository per library
+    - Dave: I believe this is my preference, as it would allow each "library" to have its own set of issues, etc
 - seed repositories/folders that we want to see built. initial thoughts:
   - [data structures](https://forums.swift.org/t/adding-more-data-structures-to-the-standard-library/23651)
   - [sorting](https://forums.swift.org/t/pitch-stdlib-making-sorting-algorithm-selectable/24100)
