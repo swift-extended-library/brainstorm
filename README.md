@@ -16,7 +16,11 @@
 - seed repositories/folders that we want to see built. initial thoughts:
   - [data structures](https://forums.swift.org/t/adding-more-data-structures-to-the-standard-library/23651)
   - [sorting](https://forums.swift.org/t/pitch-stdlib-making-sorting-algorithm-selectable/24100)
-  - regular expressions
+  - [regular expressions](https://forums.swift.org/t/let-s-chat-first-class-regular-expressions/22411)
+  - numeric stuff
+    - [sum collections](https://forums.swift.org/t/pitch-method-to-sum-numeric-arrays/24170)
+    - [isPowerOf2](https://forums.swift.org/t/adding-ispowerof2-to-binaryinteger/24087)
+    - `isEven`/`isOdd`
   - paths
   - CLI arg parsing
   - observables?
