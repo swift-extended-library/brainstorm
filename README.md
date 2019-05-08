@@ -14,7 +14,8 @@
   - single repository with subfolders for different "libraries"
   - one repository per library
 - seed repositories/folders that we want to see built. initial thoughts:
-  - data structures
+  - [data structures](https://forums.swift.org/t/adding-more-data-structures-to-the-standard-library/23651)
+  - [sorting](https://forums.swift.org/t/pitch-stdlib-making-sorting-algorithm-selectable/24100)
   - regular expressions
   - paths
   - CLI arg parsing
